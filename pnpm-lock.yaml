@@ -59,13 +59,13 @@ importers:
         version: 20.8.0
       '@typescript-eslint/eslint-plugin':
         specifier: 6.7.3
-        version: 6.7.3(@typescript-eslint/parser@6.7.3)(eslint@8.50.0)(typescript@5.1.3)
+        version: 6.7.3(@typescript-eslint/parser@6.7.3)(eslint@8.50.0)(typescript@5.2.2)
       '@typescript-eslint/parser':
         specifier: 6.7.3
-        version: 6.7.3(eslint@8.50.0)(typescript@5.1.3)
+        version: 6.7.3(eslint@8.50.0)(typescript@5.2.2)
       bob-the-bundler:
         specifier: 7.0.1
-        version: 7.0.1(typescript@5.1.3)
+        version: 7.0.1(typescript@5.2.2)
       chalk:
         specifier: 5.3.0
         version: 5.3.0
@@ -113,13 +113,13 @@ importers:
         version: 5.0.5
       ts-jest:
         specifier: 29.1.1
-        version: 29.1.1(@babel/core@7.23.0)(jest@29.7.0)(typescript@5.1.3)
+        version: 29.1.1(@babel/core@7.23.0)(jest@29.7.0)(typescript@5.2.2)
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@20.8.0)(typescript@5.1.3)
+        version: 10.9.1(@types/node@20.8.0)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
       wait-on:
         specifier: 7.0.1
         version: 7.0.1
@@ -177,10 +177,10 @@ importers:
         version: 18.18.1
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/azure-functions:
     dependencies:
@@ -205,10 +205,10 @@ importers:
         version: 18.18.1
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/cloudflare-workers:
     dependencies:
@@ -236,10 +236,10 @@ importers:
         version: 18.18.1
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/express-graphql:
     dependencies:
@@ -264,10 +264,10 @@ importers:
         version: 18.18.1
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/google-cloud-functions:
     dependencies:
@@ -298,10 +298,10 @@ importers:
         version: 18.18.1
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/graphql-helix:
     dependencies:
@@ -326,10 +326,10 @@ importers:
         version: 18.18.1
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/graphql-helix-auth0:
     dependencies:
@@ -357,10 +357,10 @@ importers:
         version: 18.18.1
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/graphql-http:
     dependencies:
@@ -382,10 +382,10 @@ importers:
         version: 18.18.1
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/graphql-socket.io:
     dependencies:
@@ -425,10 +425,10 @@ importers:
         version: 8.5.6
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/graphql-sse:
     dependencies:
@@ -453,10 +453,10 @@ importers:
         version: 8.5.6
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/graphql-ws:
     dependencies:
@@ -484,10 +484,10 @@ importers:
         version: 8.5.6
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/lambda-aws:
     dependencies:
@@ -515,10 +515,10 @@ importers:
         version: 18.18.1
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/nexus:
     dependencies:
@@ -546,10 +546,10 @@ importers:
         version: 18.18.1
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/simple-http:
     dependencies:
@@ -568,10 +568,10 @@ importers:
         version: 18.18.1
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/typegraphql:
     dependencies:
@@ -602,10 +602,10 @@ importers:
         version: 18.18.1
       ts-node:
         specifier: 10.9.1
-        version: 10.9.1(@types/node@18.18.1)(typescript@5.1.3)
+        version: 10.9.1(@types/node@18.18.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   examples/with-esm:
     dependencies:
@@ -630,10 +630,10 @@ importers:
         version: 18.18.1
       tsup:
         specifier: 7.2.0
-        version: 7.2.0(ts-node@10.9.1)(typescript@5.1.3)
+        version: 7.2.0(ts-node@10.9.1)(typescript@5.2.2)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
 
   packages/core:
     dependencies:
@@ -657,8 +657,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/apollo-datasources:
@@ -683,8 +683,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/apollo-federation:
@@ -715,8 +715,8 @@ importers:
         specifier: 2.12.6
         version: 2.12.6(graphql@16.6.0)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/apollo-server-errors:
@@ -741,8 +741,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/apollo-tracing:
@@ -770,8 +770,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/auth0:
@@ -793,8 +793,8 @@ importers:
         specifier: 9.0.3
         version: 9.0.3
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/dataloader:
@@ -819,8 +819,8 @@ importers:
         specifier: 0.1.13
         version: 0.1.13
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/depth-limit:
@@ -842,8 +842,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/disable-introspection:
@@ -859,8 +859,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/execute-subscription-event:
@@ -879,8 +879,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/extended-validation:
@@ -902,8 +902,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/filter-operation-type:
@@ -919,8 +919,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/fragment-arguments:
@@ -954,8 +954,8 @@ importers:
         specifier: 1.0.3
         version: 1.0.3
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/generic-auth:
@@ -980,8 +980,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/graphql-jit:
@@ -1009,8 +1009,8 @@ importers:
         specifier: 0.1.13
         version: 0.1.13
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/graphql-middleware:
@@ -1035,8 +1035,8 @@ importers:
         specifier: 7.6.5
         version: 7.6.5(graphql-middleware@6.1.35)(graphql@16.6.0)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/graphql-modules:
@@ -1058,8 +1058,8 @@ importers:
         specifier: 0.1.13
         version: 0.1.13
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/immediate-introspection:
@@ -1075,8 +1075,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/live-query:
@@ -1110,8 +1110,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/newrelic:
@@ -1142,8 +1142,8 @@ importers:
         specifier: ^11.0.0
         version: 11.0.0
       typescript:
-        specifier: 4.9.5
-        version: 4.9.5
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/on-resolve:
@@ -1158,8 +1158,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/opentelemetry:
@@ -1184,8 +1184,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/operation-field-permissions:
@@ -1207,8 +1207,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/parser-cache:
@@ -1227,8 +1227,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/persisted-operations:
@@ -1247,8 +1247,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/preload-assets:
@@ -1267,8 +1267,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/prometheus:
@@ -1293,8 +1293,8 @@ importers:
         specifier: 14.2.0
         version: 14.2.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/rate-limiter:
@@ -1319,8 +1319,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/resource-limitations:
@@ -1345,8 +1345,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/response-cache:
@@ -1383,8 +1383,8 @@ importers:
         specifier: 5.9.1
         version: 5.9.1(ioredis@4.27.9)(redis-commands@1.7.0)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/response-cache-redis:
@@ -1412,8 +1412,8 @@ importers:
         specifier: 5.9.1
         version: 5.9.1(ioredis@4.27.9)(redis-commands@1.7.0)
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/sentry:
@@ -1444,8 +1444,8 @@ importers:
         specifier: 5.0.6
         version: 5.0.6
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/statsd:
@@ -1467,8 +1467,8 @@ importers:
         specifier: 9.3.0
         version: 9.3.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/plugins/validation-cache:
@@ -1490,8 +1490,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/testing:
@@ -1516,8 +1516,8 @@ importers:
         specifier: 16.6.0
         version: 16.6.0
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   packages/types:
@@ -1527,8 +1527,8 @@ importers:
         version: 2.5.0
     devDependencies:
       typescript:
-        specifier: 5.1.3
-        version: 5.1.3
+        specifier: 5.2.2
+        version: 5.2.2
     publishDirectory: dist
 
   website:
@@ -7507,7 +7507,7 @@ packages:
   /@types/yup@0.29.13:
     resolution: {integrity: sha512-qRyuv+P/1t1JK1rA+elmK1MmCL1BapEzKKfbEhDBV/LMMse4lmhZ/XbgETI39JveDJRpLjmToOI6uFtMW/WR2g==}
 
-  /@typescript-eslint/eslint-plugin@6.7.3(@typescript-eslint/parser@6.7.3)(eslint@8.50.0)(typescript@5.1.3):
+  /@typescript-eslint/eslint-plugin@6.7.3(@typescript-eslint/parser@6.7.3)(eslint@8.50.0)(typescript@5.2.2):
     resolution: {integrity: sha512-vntq452UHNltxsaaN+L9WyuMch8bMd9CqJ3zhzTPXXidwbf5mqqKCVXEuvRZUqLJSTLeWE65lQwyXsRGnXkCTA==}
     engines: {node: ^16.0.0 || >=18.0.0}
     peerDependencies:
@@ -7519,10 +7519,10 @@ packages:
         optional: true
     dependencies:
       '@eslint-community/regexpp': 4.5.1
-      '@typescript-eslint/parser': 6.7.3(eslint@8.50.0)(typescript@5.1.3)
+      '@typescript-eslint/parser': 6.7.3(eslint@8.50.0)(typescript@5.2.2)
       '@typescript-eslint/scope-manager': 6.7.3
-      '@typescript-eslint/type-utils': 6.7.3(eslint@8.50.0)(typescript@5.1.3)
-      '@typescript-eslint/utils': 6.7.3(eslint@8.50.0)(typescript@5.1.3)
+      '@typescript-eslint/type-utils': 6.7.3(eslint@8.50.0)(typescript@5.2.2)
+      '@typescript-eslint/utils': 6.7.3(eslint@8.50.0)(typescript@5.2.2)
       '@typescript-eslint/visitor-keys': 6.7.3
       debug: 4.3.4
       eslint: 8.50.0
@@ -7530,13 +7530,13 @@ packages:
       ignore: 5.2.4
       natural-compare: 1.4.0
       semver: 7.5.4
-      ts-api-utils: 1.0.3(typescript@5.1.3)
-      typescript: 5.1.3
+      ts-api-utils: 1.0.3(typescript@5.2.2)
+      typescript: 5.2.2
     transitivePeerDependencies:
       - supports-color
     dev: true
 
-  /@typescript-eslint/parser@6.7.3(eslint@8.50.0)(typescript@5.1.3):
+  /@typescript-eslint/parser@6.7.3(eslint@8.50.0)(typescript@5.2.2):
     resolution: {integrity: sha512-TlutE+iep2o7R8Lf+yoer3zU6/0EAUc8QIBB3GYBc1KGz4c4TRm83xwXUZVPlZ6YCLss4r77jbu6j3sendJoiQ==}
     engines: {node: ^16.0.0 || >=18.0.0}
     peerDependencies:
@@ -7548,11 +7548,11 @@ packages:
     dependencies:
       '@typescript-eslint/scope-manager': 6.7.3
       '@typescript-eslint/types': 6.7.3
-      '@typescript-eslint/typescript-estree': 6.7.3(typescript@5.1.3)
+      '@typescript-eslint/typescript-estree': 6.7.3(typescript@5.2.2)
       '@typescript-eslint/visitor-keys': 6.7.3
       debug: 4.3.4
       eslint: 8.50.0
-      typescript: 5.1.3
+      typescript: 5.2.2
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -7565,7 +7565,7 @@ packages:
       '@typescript-eslint/visitor-keys': 6.7.3
     dev: true
 
-  /@typescript-eslint/type-utils@6.7.3(eslint@8.50.0)(typescript@5.1.3):
+  /@typescript-eslint/type-utils@6.7.3(eslint@8.50.0)(typescript@5.2.2):
     resolution: {integrity: sha512-Fc68K0aTDrKIBvLnKTZ5Pf3MXK495YErrbHb1R6aTpfK5OdSFj0rVN7ib6Tx6ePrZ2gsjLqr0s98NG7l96KSQw==}
     engines: {node: ^16.0.0 || >=18.0.0}
     peerDependencies:
@@ -7575,12 +7575,12 @@ packages:
       typescript:
         optional: true
     dependencies:
-      '@typescript-eslint/typescript-estree': 6.7.3(typescript@5.1.3)
-      '@typescript-eslint/utils': 6.7.3(eslint@8.50.0)(typescript@5.1.3)
+      '@typescript-eslint/typescript-estree': 6.7.3(typescript@5.2.2)
+      '@typescript-eslint/utils': 6.7.3(eslint@8.50.0)(typescript@5.2.2)
       debug: 4.3.4
       eslint: 8.50.0
-      ts-api-utils: 1.0.3(typescript@5.1.3)
-      typescript: 5.1.3
+      ts-api-utils: 1.0.3(typescript@5.2.2)
+      typescript: 5.2.2
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -7590,7 +7590,7 @@ packages:
     engines: {node: ^16.0.0 || >=18.0.0}
     dev: true
 
-  /@typescript-eslint/typescript-estree@6.7.3(typescript@5.1.3):
+  /@typescript-eslint/typescript-estree@6.7.3(typescript@5.2.2):
     resolution: {integrity: sha512-YLQ3tJoS4VxLFYHTw21oe1/vIZPRqAO91z6Uv0Ss2BKm/Ag7/RVQBcXTGcXhgJMdA4U+HrKuY5gWlJlvoaKZ5g==}
     engines: {node: ^16.0.0 || >=18.0.0}
     peerDependencies:
@@ -7605,13 +7605,13 @@ packages:
       globby: 11.1.0
       is-glob: 4.0.3
       semver: 7.5.4
-      ts-api-utils: 1.0.3(typescript@5.1.3)
-      typescript: 5.1.3
+      ts-api-utils: 1.0.3(typescript@5.2.2)
+      typescript: 5.2.2
     transitivePeerDependencies:
       - supports-color
     dev: true
 
-  /@typescript-eslint/utils@6.7.3(eslint@8.50.0)(typescript@5.1.3):
+  /@typescript-eslint/utils@6.7.3(eslint@8.50.0)(typescript@5.2.2):
     resolution: {integrity: sha512-vzLkVder21GpWRrmSR9JxGZ5+ibIUSudXlW52qeKpzUEQhRSmyZiVDDj3crAth7+5tmN1ulvgKaCU2f/bPRCzg==}
     engines: {node: ^16.0.0 || >=18.0.0}
     peerDependencies:
@@ -7622,7 +7622,7 @@ packages:
       '@types/semver': 7.5.3
       '@typescript-eslint/scope-manager': 6.7.3
       '@typescript-eslint/types': 6.7.3
-      '@typescript-eslint/typescript-estree': 6.7.3(typescript@5.1.3)
+      '@typescript-eslint/typescript-estree': 6.7.3(typescript@5.2.2)
       eslint: 8.50.0
       semver: 7.5.4
     transitivePeerDependencies:
@@ -8701,7 +8701,7 @@ packages:
     resolution: {integrity: sha512-eXRvHzWyYPBuB4NBy0cmYQjGitUrtqwbvlzP3G6VFnNRbsZQIxQ10PbKKHt8gZ/HW/D/747aDl+QkDqg3KQLMQ==}
     dev: false
 
-  /bob-the-bundler@7.0.1(typescript@5.1.3):
+  /bob-the-bundler@7.0.1(typescript@5.2.2):
     resolution: {integrity: sha512-TFpj2AcCzTNVyMZ5ixHqJndJ9KyIUGrgTMMciz88X0HCRDujoUQL+D+61shAY+K20bM4q5Yn/NunbdiPC9drjA==}
     engines: {node: '>=16', pnpm: '>=8'}
     hasBin: true
@@ -8717,7 +8717,7 @@ packages:
       p-limit: 4.0.0
       resolve.exports: 2.0.2
       tslib: 2.5.0
-      typescript: 5.1.3
+      typescript: 5.2.2
       yargs: 17.7.2
       zod: 3.21.4
     dev: true
@@ -10821,7 +10821,7 @@ packages:
       eslint-import-resolver-webpack:
         optional: true
     dependencies:
-      '@typescript-eslint/parser': 6.7.3(eslint@8.50.0)(typescript@5.1.3)
+      '@typescript-eslint/parser': 6.7.3(eslint@8.50.0)(typescript@5.2.2)
       debug: 3.2.7
       eslint: 8.50.0
       eslint-import-resolver-node: 0.3.7
@@ -10850,7 +10850,7 @@ packages:
       '@typescript-eslint/parser':
         optional: true
     dependencies:
-      '@typescript-eslint/parser': 6.7.3(eslint@8.50.0)(typescript@5.1.3)
+      '@typescript-eslint/parser': 6.7.3(eslint@8.50.0)(typescript@5.2.2)
       array-includes: 3.1.6
       array.prototype.findlastindex: 1.2.3
       array.prototype.flat: 1.3.1
@@ -13512,7 +13512,7 @@ packages:
       pretty-format: 29.7.0
       slash: 3.0.0
       strip-json-comments: 3.1.1
-      ts-node: 10.9.1(@types/node@20.8.0)(typescript@5.1.3)
+      ts-node: 10.9.1(@types/node@20.8.0)(typescript@5.2.2)
     transitivePeerDependencies:
       - babel-plugin-macros
       - supports-color
@@ -16589,7 +16589,7 @@ packages:
     dependencies:
       lilconfig: 2.1.0
       postcss: 8.4.28
-      ts-node: 10.9.1(@types/node@20.8.0)(typescript@5.1.3)
+      ts-node: 10.9.1(@types/node@20.8.0)(typescript@5.2.2)
       yaml: 2.3.1
     dev: true
 
@@ -19044,13 +19044,13 @@ packages:
     resolution: {integrity: sha512-FnHq5sTMxC0sk957wHDzRnemFnNBvt/gSY99HzK8F7UP5WAbvP70yX5bd7CjEQkN+TjdxwI7g7lJ6podqrG2/w==}
     dev: false
 
-  /ts-api-utils@1.0.3(typescript@5.1.3):
+  /ts-api-utils@1.0.3(typescript@5.2.2):
     resolution: {integrity: sha512-wNMeqtMz5NtwpT/UZGY5alT+VoKdSsOOP/kqHFcUW1P/VRhH2wJ48+DN2WwUliNbQ976ETwDL0Ifd2VVvgonvg==}
     engines: {node: '>=16.13.0'}
     peerDependencies:
       typescript: '>=4.2.0'
     dependencies:
-      typescript: 5.1.3
+      typescript: 5.2.2
     dev: true
 
   /ts-dedent@2.2.0:
@@ -19068,7 +19068,7 @@ packages:
       ts-tiny-invariant: 0.0.3
     dev: true
 
-  /ts-jest@29.1.1(@babel/core@7.23.0)(jest@29.7.0)(typescript@5.1.3):
+  /ts-jest@29.1.1(@babel/core@7.23.0)(jest@29.7.0)(typescript@5.2.2):
     resolution: {integrity: sha512-D6xjnnbP17cC85nliwGiL+tpoKN0StpgE0TeOjXQTU6MVCfsB4v7aW05CgQ/1OywGb0x/oy9hHFnN+sczTiRaA==}
     engines: {node: ^14.15.0 || ^16.10.0 || >=18.0.0}
     hasBin: true
@@ -19098,11 +19098,11 @@ packages:
       lodash.memoize: 4.1.2
       make-error: 1.3.6
       semver: 7.5.4
-      typescript: 5.1.3
+      typescript: 5.2.2
       yargs-parser: 21.1.1
     dev: true
 
-  /ts-node@10.9.1(@types/node@18.18.1)(typescript@5.1.3):
+  /ts-node@10.9.1(@types/node@18.18.1)(typescript@5.2.2):
     resolution: {integrity: sha512-NtVysVPkxxrwFGUUxGYhfux8k78pQB3JqYBXlLRZgdGUqTO5wU/UyHop5p70iEbGhB7q5KmiZiU0Y3KlJrScEw==}
     hasBin: true
     peerDependencies:
@@ -19128,12 +19128,12 @@ packages:
       create-require: 1.1.1
       diff: 4.0.2
       make-error: 1.3.6
-      typescript: 5.1.3
+      typescript: 5.2.2
       v8-compile-cache-lib: 3.0.1
       yn: 3.1.1
     dev: true
 
-  /ts-node@10.9.1(@types/node@20.8.0)(typescript@5.1.3):
+  /ts-node@10.9.1(@types/node@20.8.0)(typescript@5.2.2):
     resolution: {integrity: sha512-NtVysVPkxxrwFGUUxGYhfux8k78pQB3JqYBXlLRZgdGUqTO5wU/UyHop5p70iEbGhB7q5KmiZiU0Y3KlJrScEw==}
     hasBin: true
     peerDependencies:
@@ -19159,7 +19159,7 @@ packages:
       create-require: 1.1.1
       diff: 4.0.2
       make-error: 1.3.6
-      typescript: 5.1.3
+      typescript: 5.2.2
       v8-compile-cache-lib: 3.0.1
       yn: 3.1.1
     dev: true
@@ -19195,7 +19195,7 @@ packages:
   /tslib@2.6.2:
     resolution: {integrity: sha512-AEYxH93jGFPn/a2iVAwW87VuUIkR1FVUKB77NwMF7nBTDkDrrT/Hpt/IrCJ0QXhW27jTBDcf5ZY7w6RiqTMw2Q==}
 
-  /tsup@7.2.0(ts-node@10.9.1)(typescript@5.1.3):
+  /tsup@7.2.0(ts-node@10.9.1)(typescript@5.2.2):
     resolution: {integrity: sha512-vDHlczXbgUvY3rWvqFEbSqmC1L7woozbzngMqTtL2PGBODTtWlRwGDDawhvWzr5c1QjKe4OAKqJGfE1xeXUvtQ==}
     engines: {node: '>=16.14'}
     hasBin: true
@@ -19225,7 +19225,7 @@ packages:
       source-map: 0.8.0-beta.0
       sucrase: 3.34.0
       tree-kill: 1.2.2
-      typescript: 5.1.3
+      typescript: 5.2.2
     transitivePeerDependencies:
       - supports-color
       - ts-node
@@ -19366,14 +19366,8 @@ packages:
   /typedarray@0.0.6:
     resolution: {integrity: sha512-/aCDEGatGvZ2BIk+HmLf4ifCJFwvKFNb9/JeZPMulfgFracn9QFcAf5GO8B/mweUjSoblS5In0cWhqpfs/5PQA==}
 
-  /typescript@4.9.5:
-    resolution: {integrity: sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==}
-    engines: {node: '>=4.2.0'}
-    hasBin: true
-    dev: true
-
-  /typescript@5.1.3:
-    resolution: {integrity: sha512-XH627E9vkeqhlZFQuL+UsyAXEnibT0kWR2FWONlr4sTjvxyJYnyefgrkyECLzM5NenmKzRAy2rR/OlYLA1HkZw==}
+  /typescript@5.2.2:
+    resolution: {integrity: sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w==}
     engines: {node: '>=14.17'}
     hasBin: true
     dev: true
